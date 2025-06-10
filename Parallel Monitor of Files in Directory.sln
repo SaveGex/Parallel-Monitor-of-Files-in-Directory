@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel Monitor of Files in Directory", "Parallel Monitor of Files in Directory\Parallel Monitor of Files in Directory.csproj", "{919D30EC-F44C-4853-ACB6-CED9F06E94D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{6B731F17-ECF6-472A-8D4C-4BF84AC92933}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{919D30EC-F44C-4853-ACB6-CED9F06E94D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{919D30EC-F44C-4853-ACB6-CED9F06E94D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{919D30EC-F44C-4853-ACB6-CED9F06E94D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B731F17-ECF6-472A-8D4C-4BF84AC92933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B731F17-ECF6-472A-8D4C-4BF84AC92933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B731F17-ECF6-472A-8D4C-4BF84AC92933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B731F17-ECF6-472A-8D4C-4BF84AC92933}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
